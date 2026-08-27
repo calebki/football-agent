@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 scratch/
+*.egg-info/
+.eggs/
+dist/
+build/
