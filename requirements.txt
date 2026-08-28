@@ -79,6 +79,8 @@ distlib==0.4.3
     # via virtualenv
 docstring-parser==0.18.0
     # via tyro
+duckdb==1.5.5
+    # via -r requirements.in
 fastapi==0.141.1
     # via -r requirements.in
 filelock==3.32.4

@@ -5,7 +5,10 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "fantasy-agent"
 version = "0.0.1"
-dependencies = []
+dependencies = [
+    "duckdb",
+    "httpx"
+]
 
 [tool.setuptools.packages.find]
 where = ["src"]
