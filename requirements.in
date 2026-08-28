@@ -21,3 +21,5 @@ python-dotenv
 
 pre-commit
 ruff
+
+duckdb
